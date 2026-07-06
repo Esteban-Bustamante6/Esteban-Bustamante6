@@ -1,4 +1,4 @@
-# ¡Hola, soy Esteban Bustamante! 👋
+# ¡Hola, soy Esteban Bustamante! 
 
 ### Desarrollador Software Full-Stack | Arquitectura & IA
 
@@ -6,7 +6,7 @@ Soy un Desarrollador de Software Full-Stack enfocado en la creación de solucion
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 #### Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +25,7 @@ Soy un Desarrollador de Software Full-Stack enfocado en la creación de solucion
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 * **EVA (AI Interview Assistant):** Sistema inteligente diseñado para optimizar procesos de selección. Actúa como intermediario estratégico durante entrevistas, analizando el perfil del candidato en tiempo real y sugiriendo preguntas personalizadas para evaluar competencias técnicas y detectar brechas de conocimiento de forma objetiva.
 * **Sopetran Click:** Ecosistema digital integral para la municipalidad de Sopetrán, centralizando servicios de comercio, turismo y transporte mediante una arquitectura escalable y una interfaz de usuario optimizada.
@@ -39,5 +39,5 @@ Soy un Desarrollador de Software Full-Stack enfocado en la creación de solucion
 
 ###  Contáctame
 - 📍 **Ubicación:** Medellín, Antioquia, Colombia
--  [LinkedIn](www.linkedin.com/in/esteban-bustamante-)
+-  [LinkedIn](https://www.linkedin.com/in/esteban-bustamante-)
 -  [estebanbl090@gmail.com]
